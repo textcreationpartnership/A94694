@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the supream authority of the nation, the Parliament of the Common-vvealth of England The humble petition of the Common-Council of the City of London.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94694</idno>
+            <idno type="STC">Wing T1731</idno>
+            <idno type="STC">Thomason 669.f.21[77]</idno>
+            <idno type="STC">ESTC R211285</idno>
+            <idno type="EEBO-CITATION">99870013</idno>
+            <idno type="PROQUEST">99870013</idno>
+            <idno type="VID">163572</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94694)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163572)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f21[77])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the supream authority of the nation, the Parliament of the Common-vvealth of England The humble petition of the Common-Council of the City of London.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Johnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>For the maintenance of their charter and privileges in the election of Lord-Mayor.</note>
+                  <note>Annotation on Thomason copy: "Sept 27.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  Charters, grants, privileges --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:163572:1" rendition="simple:additions"/>
+            <head>TO THE
+SUPREAM AVTHORITY
+OF THE
+NATION,
+The Parliament of the Common-vvealth of
+ENGLAND.
+The humble Petition of the Common-Council of the City of
+LONDON.</head>
+            <opener>SHEWETH,</opener>
+            <p>THat this City hath taken notice of a Vote of your Honours, of the ſecond of this inſtant <hi>September,</hi> importing your plea<g ref="char:EOLhyphen"/>ſures,
+that <hi>John Ireton</hi> the preſent Lord Mayor of this City, do continue &amp; execute the Office of Lord Mayor for the year
+enſuing, recommending it to the City of <hi>London</hi> to ſee the ſame done accordingly; touching which, your Petitioners do
+not at this time apply to your Honours, out of any exception to that Honourable Perſon therein mentioned; but entren<g ref="char:EOLhyphen"/>ching
+upon our ancient Charters, Cuſtoms and Priviledges, a breach upon which, would exceedingly hazzard, if not totally deſtroy the
+Peace, good order, and happineſs of the moſt Ancient, and moſt Well-governed City, We had almoſt ſaid in the World, but ſurely
+We may ſay in this Nation, when as the multitude of Inhabitants in and about it is conſidered. Our Government ſtands upon two
+ſupporſs, The laudable Cuſtome of it time out of mind, and ſeveral very Ancient Charters, which have been confirmed by ſundry Acts
+of Parliament; And in them theſe are eſſencial, That the Mayor of the City aforeſaid, be choſen by the Citizens of the ſame City;
+That the Mayor of the ſaid City remain not in the ſaid Office above one year together; And that the Supreme Power of the Nation,
+may be fully ſatisfied in our Choiſe, We are to preſent him there for aprobation, which We chearfully ſubmit to, &amp; aſſure our ſelves,
+That among ſeveral very worthy Perſons (whom God and his good Providence hath given us in ſucceſſion) there may be choſen ſuch
+a fit Perſon for the year enſuing, as will be ſerviceable to the Peace, and Safety of the City and Nation; and acceptable to Your
+Honours.</p>
+            <p>In the conſideration whereof, We make this Our Petition, perſwading our ſelves no alteration will be made by Your Honours, in
+Our ſo Ancient, Good and Peaceable Cuſtom and Charter: eſpecially, when We call to mind the long Peace, and Happineſs this
+great and populous City hath enjoyed under this Government; And that the diſturbance of the (though but in the minds of men)
+may prove dangerous thereunto: As alſo, the great Love and correſpondency that this Election hath maintain'd in all times, between
+the Mayor and Citizens; But when We look into the Records of Parliament and Our own Courts, what acknowledgments, Promiſes
+and Engagements this City hath received from Your Honours, We might well abhor Our own diſ-ingenuity, if We ſhould fear the
+breach of Our Charters, Cuſtoms, or any mark of hardſhip and diſpleaſure from Your Honours. For We do find,</p>
+            <p>13. <hi>January 1643. Fo.</hi> 85. Both Houſes diſtinctly, make great acknowledgement to the City, with aſſurance never to diſſert it;
+but to make it their greateſt care, to watch all opportunitys to advance the honour and happineſs of the City, which under God hath
+been the principal means of preſerving the Parliament.</p>
+            <p>6 <hi>May 1644. Fo.</hi> 95. 115. A Committee from both Houſes, ſignifie their ſence of the Cities readineſs to aſſiſt the Parliament
+upon all occaſions, and that therefore the Parliament is likewiſe ready, to expreſs their gratitude to the City in the moſt eſſencial man<g ref="char:EOLhyphen"/>ner
+and way they can find out, and therefore being about to make Propoſi<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions to the King, in behalf of both Kingdoms; They offer
+it to the Common-councel, to think of ſome Propoſitions to be prepared in behalf of the City, for the Honour, Safety and Good of it,
+and that the Parliament will preſent to his Majeſty.</p>
+            <p>
+               <hi>Fo.</hi> 108, 115. Accordingly the City prepared Propoſitions, of which one was, for confirmation of all the <hi>Charters</hi> granted to the
+City, and of all Liberties, Cuſtoms, Priviledges, notwithſtanding Nonuſer, Miſuſer or abuſer, That they ſhall not be drawn out of the
+Liberties to War without their own conſent.</p>
+            <p>
+               <hi>May 18. 1644. Fo.</hi> 98. The Commons acknowledge it an eſpecial bleſſing of Almighty God, that their endeavours have been ſo
+well underſtood, and accepted by this Famous City, without whoſe conſtant affection and aſſiſtance, they could not have brought that
+great work to the hopeful condition wherein by the Mercy of God it then ſtood.</p>
+            <p>That the City have demonſtrated their adherence to the Houſe of Commons, by Actions in the times of greateſt difficulty; and
+have therein ſpent their deareſt Blood, and vaſt Sums of Treaſure, omitting no poſſible ſupplies of Purſe and Perſon; That they (the
+Commons) will never forget the great Encouragements that they received by a Petition from the City: And in return for their great
+Affections, The Houſe of Commons do Declare, That they will in a moſt peculiar manner, be mindful of the Merit of the City:
+which upon all occaſions they ſhall acknowledge, and will endeavour to requite.</p>
+            <p>The Fruits of all which, We do perſwade Our ſelves, can never be wanting to the City, whilſt Your Honours that made them, hath
+Power in Your hands to make them good. And we hope the Common Enemy both to You and Us, ſhall never have cauſe to re<g ref="char:EOLhyphen"/>joyce
+in this, That Our City ſhall want the benefit of Your Engagements to us, in the days of Your and Our ſtreights; Much leſſe
+looſe any of Our former Priviledges by Your Hands in the daies of Peace.</p>
+            <p>Therefore, in a deep ſence of the Cities concernment therein, and the Duty incumbent on Us, and all Free-men of the
+City, by Virtue of our Oaths, We do moſt humbly pray, That Your Honours will lay no reſtraint upon the Peoples free
+Election of Our Mayor; And thar our Ancient Charters, Cuſtoms, Rights and Priviledges in this and all other things may
+be continued to Us.</p>
+            <closer>And We ſhall ever pray, &amp;c.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> John Johnſon, 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
